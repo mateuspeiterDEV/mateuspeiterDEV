@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Mateus Ramos Peiter 👋
 
-<!--
-**mateuspeiterDEV/mateuspeiterDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bem-vindo ao meu perfil! 🚀
 
-Here are some ideas to get you started:
+* 📍 **Cidade:** Venâncio Aires - RS
+* 📚 **Estudando:** Python (Mundo 1 - Curso em Vídeo / Prof. Gustavo Guanabara)
+* 🎯 **Objetivo:** Me tornar um Engenheiro de Software e conquistar uma vaga de Jovem Aprendiz na área de TI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Como me encontrar:
+* **E-mail:** [mateuspeiter.dev@gmail.com](mailto:mateuspeiter.dev@gmail.com)
+* **LinkedIn:** (Em breve)
+
+---
+
+*"O sucesso é a soma de pequenos esforços repetidos dia após dia."*
+
