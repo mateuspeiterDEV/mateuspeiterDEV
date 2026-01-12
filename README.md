@@ -10,7 +10,9 @@
 
 ### 📫 Como me encontrar:
 * **E-mail:** [mateuspeiter.dev@gmail.com](mailto:mateuspeiter.dev@gmail.com)
-* **LinkedIn:** (Em breve)
+* **LinkedIn:** [www.linkedin.com/in/
+mateus-ramos-peiter-aa98a6381](www.linkedin.com/in/
+mateus-ramos-peiter-aa98a6381)
 
 ---
 
